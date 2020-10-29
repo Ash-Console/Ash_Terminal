@@ -16,26 +16,22 @@ are using a standard user the Shortcut will not be created on Desktop,so Use the
 Enjoy
 Note:
 
--------------------------------------------------------------------------------------
-
 Ash terminal is in beta stages so if any bug is found please report at x-neron@pm.me.
 If you have any suggestions or if you want to Contribute in the repository/project by
 adding something contact at x-neron@pm.me.
 
--------------------------------------------------------------------------------------
 
-Ash terminal comes with a basic version of bash terminal for linux users,but it might not work properly as it is a 32 bit version and can't
-,so we reccomend you for using 'Git bash' or 'Cygwin'if you want to have a good linux environment.
+Ash terminal comes with a 32 bit version of bash terminal for linux users,but it might not work properly as it is a 32 bit version so we reccomend you for using 'Git bash' or 'Cygwin'if you want to have a good linux environment.
 OR if you are on 'windows 10' install Ubuntu [windows subsystem(wsl)] from microsoft store 
-================================================================
+
 NOTE:Please note that messing with registry editor might cause
 serious damage to your computer,so we reccomend you to first
 take a guide from the "steps for enabling windows host script"Folder
 we have taken screenshots to explian the steps beriefly.
-================================================================
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Note:
 if you are on windows 10 just paste the following path "Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Script Host\Settings" and skip to step 9
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Fix Error:
 If you find any error during or after installation saying:
 "Windows Host Script is Disabled on your Machine,please contact your administrator"
 1:Go to start button and type regedit
@@ -49,8 +45,8 @@ If you find any error during or after installation saying:
 9:Right click it and a Folder named 'Setting' will appear from here you will see a "Key" named Enabled,click it
 and(click on modify) just change its value(only value) from 0 to 1 .
 10:Now again run the setup and overwrite previous Files.
-=================================================================
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Add to System variables
 If you want to Add the program to System variables means if you want to launch it from cmd.exe
 then :
 1:Goto start button and Type "Edit system environment variables" or just environment
@@ -58,8 +54,5 @@ then :
 on "Environment Variables"
 3:then in system vaiables find a variable(string) named 'Path' Click edit and at the end type ';'
 4:Now enter "C:\Program Files\Ash" without quotes.
-5:Now open Cmd and type Shell and enjoy..
-===================================================================================================
 
-====================================================================================================
 

@@ -41,9 +41,8 @@ serious damage to your computer,so we reccomend you to first
 take a guide from the "steps for enabling windows host script"Folder
 we have taken screenshots to explian the steps beriefly.
 
-# Fix Error:
+#  Error Fix:
  Note:
- Fix Error:
 if you are on windows 10 just paste the following path "Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Script Host\Settings" and skip to step 9
 <br>
 If you find any error during or after installation saying:

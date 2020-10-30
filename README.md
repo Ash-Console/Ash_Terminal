@@ -32,11 +32,8 @@ Ash terminal is in beta stages so if any bug is found please report at x-neron@p
 If you have any suggestions or if you want to Contribute in the repository/project by
 adding something contact at x-neron@pm.me.
 
-
-Ash terminal comes with a 32 bit version of bash terminal for linux users,but it might not work properly as it is a 32 bit version so we reccomend you for using 'Git bash' or 'Cygwin'if you want to have a good linux environment.
-OR if you are on 'windows 10' install Ubuntu [windows subsystem(wsl)] from microsoft store 
-
-NOTE:Please note that messing with registry editor might cause
+# NOTE:
+Please note that messing with registry editor might cause
 serious damage to your computer,so we reccomend you to first
 take a guide from the "steps for enabling windows host script"Folder
 we have taken screenshots to explian the steps beriefly.

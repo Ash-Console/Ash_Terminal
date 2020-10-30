@@ -49,24 +49,16 @@ If you find any error during or after installation saying:
 <br>
 "Windows Host Script is Disabled on your Machine,please contact your administrator"
 <br>
-1:Go to start button and type regedit.
-<br>
-2:Run 'regedit.exe'
-<br>
-3:Registry editor will be opened in front of you
-<br>
-4: Click HKEY_LOCAL_MACHINE .
-<br>
-5:A dropdown will be opened if front of you
-<br>
-6:Click 'SOFTWARE'
-<br>
-7:Many folder like buttons will appear .Click Microsoft
-<br>
-8:Scroll down and you will find 'Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Script Host\Settings'
-<br>
-9:Right click it and a Folder named 'Setting' will appear from here you will see a "Key" named Enabled,click it
-and(click on modify) just change its value(only value) from 0 to 1 .
+   Open the Run or Search menu by either pressing the Windows key or clicking start and locating the white box.
+ <br>
+   In the search field, type regedit.exe and press Enter to open the Registry Editor.
+   <br>
+    Navigate to the following registry key by clicking through the menus on the left side: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Script Host\Settings
+    <br>
+    On the right side of the Registry Editor window, double-click the Enabled registry value.
+    <br>
+    If disabled, the Enabled value will be set to 0. Change it to a 1 to enable Windows Script Host.
+    Close the Registry Editor window.
 <br>
 10:Now again run the setup and overwrite previous Files.
 

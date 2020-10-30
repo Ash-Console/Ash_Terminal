@@ -32,11 +32,6 @@ Ash terminal is in beta stages so if any bug is found please report at x-neron@p
 If you have any suggestions or if you want to Contribute in the repository/project by
 adding something contact at x-neron@pm.me.
 
-# NOTE:
-Please note that messing with registry editor might cause
-serious damage to your computer,so we reccomend you to first
-take a guide from the "steps for enabling windows host script"Folder
-we have taken screenshots to explian the steps beriefly.
 
 #  Error Fix:
  Note:
@@ -58,6 +53,12 @@ If you find any error during or after installation saying:
     Close the Registry Editor window.
 <br>
 10:Now again run the setup and overwrite previous Files.
+# NOTE:
+Please note that messing with registry editor might cause
+serious damage to your computer,so we reccomend you to first
+take a guide from the "steps for enabling windows host script"Folder
+we have taken screenshots to explian the steps beriefly.
+
 
 # Add to System variables
 If you want to Add the program to System variables means if you want to launch it from cmd.exe

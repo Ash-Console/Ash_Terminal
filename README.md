@@ -1,7 +1,7 @@
 # Ash_project
-Ash is a simple shell script created for windows users,for penetration testing ,windows custumization and many other utilites have been added for convinience.you can debload many windows default utilities.a version of bash shell has been added for linux users.and much more is available
+Ash is a command executer,basically that executes declared commands(note that it looks like shell but it is'nt exactly a shell because it doesnt provide a freedom on executing binaries and  directory commands   but it does provide a command to execute a binary from anywhere in computer)
 # Installation:
-#########Thanks for choosing Ash terminal###############
+#########Thanks for choosing Ash terminal Emulator###############
 <br>
 Version:Beta 0.01
 <br>
@@ -21,7 +21,9 @@ Installation:
 <br>
 6:Installation will start setup will check for dependencies and the copy the files
 <br>
-7:Shortcut will be created on desktop after installation,BUT note that if your
+7:Setup will ask if you want to declare it in system variables(execute from cmd.exe),choose your desired option and continue .
+<br>
+8:Shortcut will be created on desktop after installation,BUT note that if your
 are using a standard user the Shortcut will not be created on Desktop,so Use the script present in "For Standard Users" Directory
 <br>
 Enjoy
@@ -34,6 +36,11 @@ adding something contact at x-neron@pm.me.
 
 
 #  Error Fix:
+# NOTE:
+Please note that messing with registry editor might cause
+serious damage to your computer,so we reccomend you to first
+take a guide from the "steps for enabling windows host script"Folder
+we have taken screenshots to explian the steps beriefly.
  Note:
 if you are on windows 10 just paste the following path "Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Script Host\Settings" and skip to step 9
 <br>
@@ -53,14 +60,7 @@ If you find any error during or after installation saying:
     Close the Registry Editor window.
 <br>
 10:Now again run the setup and overwrite previous Files.
-# NOTE:
-Please note that messing with registry editor might cause
-serious damage to your computer,so we reccomend you to first
-take a guide from the "steps for enabling windows host script"Folder
-we have taken screenshots to explian the steps beriefly.
-
-
-# Add to System variables
+# Add to System variables Manually:
 If you want to Add the program to System variables means if you want to launch it from cmd.exe
 then :
 <br>

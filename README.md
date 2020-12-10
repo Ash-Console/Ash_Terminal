@@ -1,3 +1,4 @@
+<p>
 Recommended windows version:Windows 10,8.You can use win 7 but some tools might not work in 7 or 8.
 <br>
 Version:Beta 0.1
@@ -25,6 +26,7 @@ are using a standard user the Shortcut will not be created on Desktop,so Use the
 <br>
 Enjoy
 <br>
+</p>
 Note:
 <br>
 -------------------------------------------------------------------------------------

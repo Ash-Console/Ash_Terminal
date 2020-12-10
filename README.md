@@ -1,47 +1,61 @@
-#########Thanks for choosing Ash terminal###############
 Recommended windows version:Windows 10,8.You can use win 7 but some tools might not work in 7 or 8.
+<br>
 Version:Beta 0.1
+<br>
 Written By:Ash community
+<br>
 Made possible by batchscripting ,AutoHotkey scripting,vbs,javascript and other auxilaries..
-please see the Credits file to see the credits
+<br>
 Installation:
+<br>
 1:Run ConfigRr.bat(as administrator,if u wont it will automatically Invoke UAC for administrator privileges).
-2:Choose 1 for installation or your desired option
-4:Read the license agreement carefully
-5:A menu will be shown on screen,press any key for starting installation
+<br>
+2:Choose 1 for installation or your desired option.
+<br>
+4:Read the license agreement carefully.
+<br>
+5:A menu will be shown on screen,press any key for starting installation.
+<br>
 6:Installation will start setup will check for dependencies and the copy the files,
 but before that it will ask you weather you want to add the program to system variables(if you want to launch it from cmd.exe)
-choose your desired option.
+choose your desired option.but this feature might not work in windows 10 as of now.
+<br>
 7:Shortcut will be created on desktop after installation,BUT note that if your
-are using a standard user the Shortcut will not be created on Desktop,so Use the script present in "For Standard Users" Directory
+are using a standard user the Shortcut will not be created on Desktop,so Use the script present in "For Standard Users" Directory.
+<br>
 Enjoy
+<br>
 Note:
+<br>
 -------------------------------------------------------------------------------------
-
+<p>
 Ash terminal is in beta stages so if any bug is found please report at x-neron@pm.me.
 If you have any suggestions or if you want to Contribute in the repository/project by
 adding  contact at x-neron@pm.me.
+	</p>
+	<br>
 #Official repository of Ash_Konsole:
+<br>
 https://github.com/Ash-Console
 -------------------------------------------------------------------------------------
 Fixing windows host script error:
---------------------------------------------------------------------------------
-NOTE:Please note that messing with registry editor might cause
-serious damage to your computer,so we recommend you to first
-take a guide from the "steps for enabling windows host script"Folder
-we have taken screenshots to explian the steps beriefly.and we dont
-take responsibility for consequences due to messing with registry editor.
-------------------------------------------------------------------------------
+<br>
 If you find any error during or after installation saying:
-"Windows Host Script is Disabled on your Machine,please contact your administrator"
-----------------------------------------------------------------------------------
+<br>
+**"Windows Host Script is Disabled on your Machine,please contact your administrator"**
+<br>
 1:Open the Run or Search menu by either pressing the Windows key or clicking start and locating the white box.
+<br>
 2:In the search field, type regedit.exe and press Enter to open the Registry Editor.
+<br>
 3:Navigate to the following registry key by clicking through the menus on the left side: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Script Host\Settings
+<br>
 On the right side of the Registry Editor window, double-click the Enabled registry value.
+<br>
 4:If disabled, the Enabled value will be set to 0. Change it to a 1 to enable Windows Script Host. Close the Registry Editor window.
+<br>
 5:Now again run the setup and overwrite previous Files.
----------------------------------------------------------------------------------------------
+<br>
 --------------------------------------------------------------------------------------------
 If you want to Add the program to System variables Manually (if you want to launch it from cmd.exe)
 then :

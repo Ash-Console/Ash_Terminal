@@ -1,11 +1,11 @@
 # Ash_project
-Ash is a command executer,basically that executes declared commands(note that it looks like shell but it is'nt exactly a shell because it doesnt provide a freedom on executing binaries and  directory commands   but it does provide a command to execute a binary from anywhere in computer)
+Ash(Acronym for Advance shell) is a light weight shell script having many useful utilities to debload windows and custumization.
 # Installation:
 #########Thanks for choosing Ash terminal Emulator###############
 <br>
-Version:Beta 0.01
+Version:Beta 0.1
 <br>
-Written By:Zeeshan azeem
+Written By:Ash community
 <br>
 please see the Credits file to see the credits
 <br>

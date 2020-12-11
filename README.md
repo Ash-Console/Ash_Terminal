@@ -39,12 +39,4 @@ on "Environment Variables"
 
 ---
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Ash github stats" src="https://github-readme-stats.Ash-Console.vercel.app/api?username=Ash-Console&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://source-ashkonsole.ga
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ash-Console)](https://github.com/Ash-Console

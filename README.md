@@ -1,7 +1,7 @@
 ### Readme.md 👋
 
 ![Website](https://img.shields.io/static/v1?label=Website&message=source-ashkonsole.ga&color=<blue>)
-[![License](https://img.shields.io/badge/License-Ashv1.1-<brightgreen>)
+![License](https://img.shields.io/badge/License-Ashv1.1-<brightgreen>)
 ## Installation:
 
 - Version:Beta 0.1

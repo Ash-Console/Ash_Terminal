@@ -31,12 +31,11 @@ on "Environment Variables"
 
 ### Connect with us:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[website]: https://source-ashkonsole.ga
+- Website(for source code): https://source-ashkonsole.ga
 
 <br />
 
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ash-Console)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ash-Console)

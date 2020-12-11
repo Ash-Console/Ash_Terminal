@@ -1,6 +1,6 @@
 ### Readme.md 👋
 
-[![Website](https://img.shields.io/website?label=source-ashkonsole.ga&style=for-the-badge&url=https%3A%2F%2Fsource-ashkonsole.ga)](source-ashkonsole.ga)
+![Website](https://img.shields.io/static/v1?label=<Website>&message=<source-ashkonsole.ga>&color=<blue>)
 
 ## Installation:
 

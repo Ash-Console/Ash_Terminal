@@ -7,7 +7,8 @@
 #### Note:
 There might be some broken features..
 ## Installation:
-if setup shows any error then use the following command for installing or use -h for help message
+if setup shows any error then use the following command for installing or use -h for help message:
+<br>
 <br>
 Setup.bat -install.force.sct1
 <br>

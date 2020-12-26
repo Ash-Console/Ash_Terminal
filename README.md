@@ -7,9 +7,9 @@
 #### Note:
 There might be some broken features..
 ## Installation:
-if setup shows any error then use the following command for installing
+if setup shows any error then use the following command for installing or use -h for help message
 <br>
--install.force.sct1
+Setup.bat -install.force.sct1
 <br>
 - Version:Beta 0.1
 - Written By:Ash community

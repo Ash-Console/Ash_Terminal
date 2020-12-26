@@ -1,0 +1,31 @@
+Credits for third party utilities:
+-------------------------------------------
+Toggle tweaker:Yasser Da Silva and johnye_pt
+
+Gotoxy: Mikael Sollenborn
+
+MessageBox: Rob van der Woude
+
+SystemTrayMessage: Rob van der Woude
+
+ls.exe: Microlib/gnu
+
+cp.exe: Mirolib/gnu
+
+Wifi Bruteborce:TUX
+
+esentutl:Microsoft Corporation
+
+Hash Console:SecurityXploded
+
+Encryptox:Zeeshan azeem
+
+Buttonv1.0 :Hamza
+
+IP_sKaNNERv1.0:Zeeshan azeem
+
+Autohotkeyv1.0.48.05:Chris Mallett& ahk community
+
+
+
+--------------------------------------------

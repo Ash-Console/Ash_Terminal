@@ -1,0 +1,1 @@
+Not many requirments are needed,just install latest version of .Net(if if it doesnt work then install Windows service pack) and enable Windows script host for running some(harmless) Scripts.  

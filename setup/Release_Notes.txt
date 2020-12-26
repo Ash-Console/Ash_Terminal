@@ -1,0 +1,20 @@
+
+__________       .__                                    _______          __                 
+\______   \ ____ |  |   ____ _____    ______ ____       \      \   _____/  |_  ____   ______
+ |       _// __ \|  | _/ __ \\__  \  /  ___// __ \      /   |   \ /  _ \   __\/ __ \ /  ___/
+ |    |   \  ___/|  |_\  ___/ / __ \_\___ \\  ___/     /    |    (  <_> )  | \  ___/ \___ \ 
+ |____|_  /\___  >____/\___  >____  /____  >\___  >____\____|__  /\____/|__|  \___  >____  >
+        \/     \/          \/     \/     \/     \/_____/       \/                 \/     \/ 
++++++++++++++++++++++++++++++
+#0.1 Alpha
+no release notes
+++++++++++++++++++++++++++++++
+# 0.1 beta(initial working version):
+Version 0.1 (beta)  5-9-2020
+1:Bugs fixed in alpha version(base version ),especially 
+  bug for crashing on whitespaces has been fixed.
+2:base has been changed. it uses ! symbol for declaring variable
+ instead of % sign.
+3:Added more tools
+4:Some known bugs
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

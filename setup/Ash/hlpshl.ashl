@@ -1,0 +1,28 @@
+ ================================================================
+ Welcome to Ash help utility                                       |
+ Version : 0.1 beta                                                |
+ Ash(acronym for advance shell) is a shell script wriiten in batch |
+ scripting,autohotkey scripting and javascript for debloading      |
+ custumization ,etc.                                               | 
+  ====                                                             |
+ /NOTE:\                                                           |
+ \==== /                                                           |
+     It is to notify that this program/script  is secured      	   |
+  under ASH LICENSE(V 1.1).                                        |
+  if you want to Contribute to                                     |
+  repository Contact at:x-neron@pm.me .                            |
+ -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+ ::::COMMANDS:::::::::::::::::::::::::::::::::::::::::::::        @
+ help:help menu                                                   @
+ doc: show documentation                                          @
+ ext/exit: exit shell                                             @
+ clear/clr/cls: clear                                             @
+ ver:  show version                                               @
+ usrnm: show username                                             @
+ whoami:Show username and group                                   @
+ dr:show directory content                                        @
+ dr-current/dr-c:show current directory                           @
+ showtasks:show current windows processes                         @
+ kltsk: kill process   
+
+ ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

@@ -1,0 +1,39 @@
+ #License Terms to use software from Ash:
+ Please read carefully the terms mentioned below and you must AGREE to these terms
+ before proceeding with the installation of software by Ash .
+ 
+ 1.	INSTALLATION AND USE RIGHTS. You may install and use any number of copies of the software on your devices.
+ 
+ 2.	SCOPE OF LICENSE.  The software is licensed, not sold. This agreement only gives you some rights to use the software. 
+ Ash reserves all other rights.  Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement. 
+ In doing so, you must comply with any technical limitations(if not priviliged by ash) in the software that only allow you to use it in certain ways.   
+ 
+ You may not :
+1:-	make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation;
+2:-	rent, lease or lend the software;
+3:-	transfer the software or this agreement to any third party; or use the software for commercial software hosting services.
+
+You may :
+1:-Commit modification of source code if privileged by Ash(simply mail at x-neron@pm.me).
+
+3.INTELLECTUAL PROPERTY. You acknowledge that Ash is the proprietor of all industrial, 
+free and intellectual property rights including the copyright in the software and the related items and including all versions or adaptations of the software and the related items. 
+Ash expressly reserves all such rights in accordance with international copyright law except those expressly granted to you in this license.
+
+4.DOCUMENTATION.  Any person that has valid access to your computer or internal network may copy and use the documentation for your internal,
+ reference purposes.
+ 
+ 5. EXPORT RESTRICTIONS.  You must comply with all domestic and international export laws and regulations that apply to the software.  
+ These laws include restrictions on destinations,end users and end use as per the laws in your respective country.
+ 
+ 6.SUPPORT SERVICES. Because this software is "as is," we may not provide support services for it.
+ 
+77. LEGAL EFFECT.  This agreement describes certain legal rights.  You may have other rights under the laws of your country. 
+ You may also have rights with respect to the party from whom you acquired the software.
+ This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
+ 
+ 8.WARNING:ASH DOES NOT TAKE ANY RESPONSIBILITY OF UNWANTED USE OF SOFTWARE.
+ 
+ 9.DISCLAIMER OF WARRANTY.  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ 
+ 10.Note:If you are an owner of an script/program and don't want us to use it.please mail it at x-neron@pm.me with proof and the executable will be excluded from our program/script.

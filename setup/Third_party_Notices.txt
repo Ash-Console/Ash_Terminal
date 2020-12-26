@@ -1,0 +1,46 @@
+******************************************
+Licenses:
+Hash Console:
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+SecurityXploded Software License Terms
+These license terms apply to anyone downloading, installing or using the softwares from SecurityXploded.com.  
+Please read carefully the terms mentioned below and you must AGREE to these terms before proceeding with the installation or using any software from SecurityXploded.com
+1.	INSTALLATION AND USE RIGHTS.  You may install and use any number of copies of the software on your devices.
+2.	SCOPE OF LICENSE.  The software is licensed, not sold. This agreement only gives you some rights to use the software.  SecurityXploded reserves all other rights.  Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement.  In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways.   
+	You may not
+•	work around any technical limitations in the binary versions of the software;
+•	reverse engineer, decompile or disassemble the binary versions of the software, except and only to the extent that applicable law expressly permits, despite this limitation;
+•	make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation;
+•	rent, lease or lend the software;
+•	transfer the software or this agreement to any third party; or
+•	use the software for commercial software hosting services.
+3	INTELLECTUAL PROPERTY.   You acknowledge that SecurityXploded is the proprietor of all industrial, free and intellectual property rights including the copyright in the software and the related items and including all versions or adaptations of the software and the related items. SecurityXploded expressly reserves all such rights in accordance with international copyright law except those expressly granted to you in this license.
+4.	DOCUMENTATION.  Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes.
+5.	EXPORT RESTRICTIONS.  You must comply with all domestic and international export laws and regulations that apply to the software.  These laws include restrictions on destinations, end users and end use as per the laws in your respective country.
+6.	SUPPORT SERVICES. Because this software is "as is," we may not provide support services for it.
+7.  REPUBLISHING OF SOFTWARE ON INTERNET & PRINT MEDIA.  Download sites on the internet and print media are allowed to publish any FREE software from SecurityXploded.com as long as the original content, website information, copyright and author information is preserved and duly mentioned in the published site or print media. You should not customize or integrate or re-bundle this software in any way that affects the integrity of the originally distributed software or any of these license terms. 
+8.	LEGAL EFFECT.  This agreement describes certain legal rights.  You may have other rights under the laws of your country.  You may also have rights with respect to the party from whom you acquired the software.  This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
+9.	DISCLAIMER OF WARRANTY.   THE SOFTWARE IS LICENSED "AS-IS."  YOU BEAR THE RISK OF USING IT.  SECURITYXPLODED GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS.  YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS UNDER YOUR LOCAL LAWS WHICH THIS AGREEMENT CANNOT CHANGE.  TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, SECURITYXPLODED EXCLUDES THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+10.	LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES.  SECURITYXPLODED IS NOT DIRECTLY OR INDIRECTLY RESPONSIBLE FOR ANY DAMAGES OR LIABILITIES. YOU CANNOT RECOVER ANY DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Wifi bruteforce by tux,(parent organization:BATteam) distibuted under open gpl license
+--------------------------------------------------------------------
+
+
+All the Programs From TheBATeam are distributed under the GPL v.3.0 for the public use.
+
+The Synopsis of license are: (https://gist.github.com/kn9ts/cbe95340d29fc1aaeaa5dd5c059d2e60)
+1. Anyone can copy, modify and distribute this software.
+2. You have to include the license and copyright notice with each and every distribution.
+3. You can use this software privately.
+4. You can use this software for commercial purposes.
+5. If you dare build your business solely from this code, you risk open-sourcing the whole code base.
+6. If you modify it, you have to indicate changes made to the code.
+7. Any modifications of this code base MUST be distributed with the same license, GPLv3.
+8. This software is provided without warranty.
+9. The software author or license can not be held liable for any damages inflicted by the software.
+
+
+More information on about the LICENSE can be found here (https://choosealicense.com/licenses/gpl-3.0/)
+--------------------------------------------------------------------------
+All other tools are also used under open gplv3.0 license .

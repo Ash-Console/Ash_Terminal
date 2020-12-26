@@ -7,6 +7,10 @@
 #### Note:
 There might be some broken features..
 ## Installation:
+if setup shows any error then use the following command for installing
+<br>
+-install.force.sct1
+<br>
 - Version:Beta 0.1
 - Written By:Ash community
 - Made possible by batchscripting ,AutoHotkey scripting,vbs,javascript and other auxilaries..

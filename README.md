@@ -3,8 +3,10 @@
 ![Website](https://img.shields.io/static/v1?label=Website&message=source-ashkonsole.ga&color=<blue>)
 ![License](https://img.shields.io/badge/License-Ashv1.1-<brightgreen>)
 ![Contribution](https://img.shields.io/badge/Contributions-Welcome-<brightgreen>)
+![Builds](https://img.shields.io/badge/Build-C-<brightred>)
+####Note:
+There might be some broken features..
 ## Installation:
-
 - Version:Beta 0.1
 - Written By:Ash community
 - Made possible by batchscripting ,AutoHotkey scripting,vbs,javascript and other auxilaries..

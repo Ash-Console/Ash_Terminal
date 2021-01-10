@@ -11,7 +11,7 @@ There might be some broken features..
 if setup shows any error then use the following command for installing or use -h for help message:
 <br>
 <br>
-Setup.bat -install.force.sct1
+`Setup.bat -install.force.sct1`
 <br>
 - Version:Beta 0.1
 - Written By:Ash community

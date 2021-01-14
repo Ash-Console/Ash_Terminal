@@ -48,4 +48,4 @@ on "Environment Variables"
 
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ash-Console)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Justaus3r)

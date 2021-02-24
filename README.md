@@ -1,12 +1,12 @@
-### Readme.md 👋
+## Support for this tool has Ended.
 
+### Readme.md 👋
 ![Website](https://img.shields.io/static/v1?label=Website&message=source-ashkonsole.ga&color=<blue>)
 ![License](https://img.shields.io/badge/License-Ashv1.1-<brightgreen>)
 ![Contribution](https://img.shields.io/badge/Contributions-Welcome-<brightgreen>)
 ![Builds](https://img.shields.io/badge/Build-D-<brightred>)
 ![Builds](https://img.shields.io/badge/Condition-Buggy-<brightred>)
 ## Name changed to Term-x
-### Support for this tool has Ended.
 #### Note:
 There might be some broken features..
 ## Installation:

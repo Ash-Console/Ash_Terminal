@@ -7,6 +7,8 @@
 ![Builds](https://img.shields.io/badge/Build-D-<brightred>)
 ![Builds](https://img.shields.io/badge/Condition-Buggy-<brightred>)
 ## Name changed to Term-x 
+## Alternative
+### I have written a pure python shell(i.e[Penta](https://github.com/Justaus3r/Penta)).encouraged to check that out.Actively working on it.
 #### Note:
 There might be some broken features..
 ## Installation:

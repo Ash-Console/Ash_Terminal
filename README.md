@@ -1,5 +1,5 @@
-## Support for this tool has Ended.
-
+## Support for this tool has Ended
+# Encouraged to use [Penta](https://github.com/Justaus3r/Penta)
 ### Readme.md 👋
 ![Website](https://img.shields.io/static/v1?label=Website&message=source-ashkonsole.ga&color=<blue>)
 ![License](https://img.shields.io/badge/License-Ashv1.1-<brightgreen>)
@@ -8,7 +8,7 @@
 ![Builds](https://img.shields.io/badge/Condition-Buggy-<brightred>)
 ## Name changed to Term-x 
 ## Alternative
-### I have written a pure python shell(i.e[Penta](https://github.com/Justaus3r/Penta)).encouraged to check that out.Actively working on it.
+### I have written a pure python shell([Penta](https://github.com/Justaus3r/Penta)).encouraged to check that out.Actively working on it.
 #### Note:
 There might be some broken features..
 ## Installation:
@@ -18,7 +18,7 @@ if setup shows any error then use the following command for installing or use -h
 `Setup.bat -install.force.sct1`
 <br>
 - Version:Beta 0.1
-- Written By:Ash community
+- Written By:Justaus3r
 - Made possible by batchscripting ,AutoHotkey scripting,vbs,javascript and other auxilaries..
 - Recommended windows version:Windows 10,8.you can use win 7 but some tools might not work in 7 or 8.
 - Run ConfigRr.bat(as administrator,if u wont it will automatically Invoke UAC for administrator privileges).

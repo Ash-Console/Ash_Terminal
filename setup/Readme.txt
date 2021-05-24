@@ -48,12 +48,6 @@ on "Environment Variables"
 5:Now open Cmd and type Shell and enjoy..
 ===================================================================================================
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-#OUR MOTTO:
-We at Ash,create scripts instead of building binaries,the reason is that scripts are 
-lighter than binaries and can provide the same results,we also strive to make command line tools that 
-are light and more powerful and interactive.we want to encourage windows user's to Cli(command line interface)
-and provide alternatives to linux tools. if your a developer (no matter C,C++ or python, infact many of us are not Batch programmers )
-and you want to contribute to us . just mail at x-neron@pm.me
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 _________ .__                                 .__                 
 \_   ___ \|  |__ _____    ____    ____   ____ |  |   ____   ____  

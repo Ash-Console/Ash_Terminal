@@ -17,7 +17,7 @@ Note:
 Ash terminal is in beta stages so if any bug is found please report at x-neron@pm.me.
 You can send a pull request if you have fixed a bug.
 #Official repository of Ash_Konsole:
-https://github.com/Ash-Console
+https://github.com/Justaus3r/Term-x
 -------------------------------------------------------------------------------------
 #Fixing windows host script error:
 ================================================================

@@ -145,7 +145,7 @@ exo /M:2:1 /C:0a /T:Username:  /C:0b /T:%username%
 gotoxy 80 7
 exo /M:2:1 /C:0a /T: Time: /C:0b /T: %time%
 gotoxy 73 50
-exo /M:2:1 /C:0b /T:(C)Copyright 2020 Ash Konsole
+exo /M:2:1 /C:0b /T:(C) 2020-2021 Justaus3r
 Call Button.bat  0 8 "-----------------------------------------------MENU-------------------------------------------------" 35 12 "Install(Configure)the Shell" 35 16 "Uninstall the Shell" 35 20 "  Read License  " 35 24 "  Exit  " # Press
 Getinput /m %Press% /h 0b
 :: Check for the pressed button 
@@ -198,7 +198,7 @@ exit
 :existlogo
 type "Ash\shllg.ashl"
 Resources\gotoxy.exe 73 50
-Resources\exo.exe /M:2:1 /C:0b /T:(C)Copyright 2020 Ash Konsole
+Resources\exo.exe /M:2:1 /C:0b /T:(C) 2020-2021 Justaus3r
 Resources\gotoxy.exe 5 7
 Resources\exo.exe /M:2:1 /C:07 /T:[-] /C:0d /T:Current User:
 Resources\gotoxy.exe 22 7
@@ -230,7 +230,7 @@ if %errorlevel%==3 (exit)
 cls
 type "Ash\shllg.ashl"
 Resources\gotoxy.exe 73 50
-Resources\exo.exe /M:2:1 /C:0b /T:(C)Copyright 2020 Ash Konsole
+Resources\exo.exe /M:2:1 /C:0b /T:(C) 2020-2021 Justaus3r
 Resources\gotoxy.exe 5 7
 Resources\exo.exe /M:2:1 /C:07 /T:[-] /C:0d /T:Current User:
 Resources\gotoxy.exe 22 7
@@ -262,7 +262,7 @@ if exist "Ash" ( goto filepass) else ( goto filefail)
 cls
 type "Ash\shllg.ashl"
 Resources\gotoxy.exe 73 50
-Resources\exo.exe /M:2:1 /C:0b /T:(C)Copyright 2020 Ash Konsole
+Resources\exo.exe /M:2:1 /C:0b /T:(C) 2020-2021 Justaus3r
 Resources\gotoxy.exe 5 7
 Resources\exo.exe /M:2:1 /C:07 /T:[-] /C:0d /T:Current User:
 Resources\gotoxy.exe 22 7
@@ -289,7 +289,7 @@ Resources\exo.exe /M:2:1 /C:07 /T:^|^|^|^|^| /C:0b /T:^|^|^|^|^|^|^|^|^|^| /C:0d
 cls
 type "Ash\shllg.ashl"
 Resources\gotoxy.exe 73 50
-Resources\exo.exe /M:2:1 /C:0b /T:(C)Copyright 2020 Ash Konsole
+Resources\exo.exe /M:2:1 /C:0b /T:(C) 2020-2021 Justaus3r
 Resources\gotoxy.exe 5 7
 Resources\exo.exe /M:2:1 /C:07 /T:[-] /C:0d /T:Current User:
 Resources\gotoxy.exe 22 7
@@ -367,7 +367,7 @@ cls
 ::Now copying the files
 type "Ash\shllg.ashl"
 Resources\gotoxy.exe 73 50
-Resources\exo.exe /M:2:1 /C:0b /T:(C)Copyright 2020 Ash Konsole
+Resources\exo.exe /M:2:1 /C:0b /T:(C) 2020-2021 Justaus3r
 Resources\gotoxy.exe 5 7
 Resources\exo.exe /M:2:1 /C:07 /T:[-] /C:0d /T:Current User:
 Resources\gotoxy.exe 22 7
@@ -444,7 +444,7 @@ cd /d "%~dp0"
 cls
 type "Ash\shllg.ashl"
 Resources\gotoxy.exe 73 50
-Resources\exo.exe /M:2:1 /C:0b /T:(C)Copyright 2020 Ash Konsole
+Resources\exo.exe /M:2:1 /C:0b /T:(C) 2020-2021 Justaus3r
 Resources\gotoxy.exe 5 7
 Resources\exo.exe /M:2:1 /C:07 /T:[-] /C:0d /T:Current User:
 Resources\gotoxy.exe 22 7
@@ -474,7 +474,7 @@ cls
 ::show 'target found msg'
 type "Ash\shllg.ashl"
 Resources\gotoxy.exe 73 50
-Resources\exo.exe /M:2:1 /C:0b /T:(C)Copyright 2020 Ash Konsole
+Resources\exo.exe /M:2:1 /C:0b /T:(C) 2020-2021 Justaus3r
 Resources\gotoxy.exe 5 7
 Resources\exo.exe /M:2:1 /C:07 /T:[-] /C:0d /T:Current User:
 Resources\gotoxy.exe 22 7
@@ -499,7 +499,7 @@ cls
 ::show 'target found msg'
 type "Ash\shllg.ashl"
 Resources\gotoxy.exe 73 50
-Resources\exo.exe /M:2:1 /C:0b /T:(C)Copyright 2020 Ash Konsole
+Resources\exo.exe /M:2:1 /C:0b /T:(C) 2020-2021 Justaus3r
 Resources\gotoxy.exe 5 7
 Resources\exo.exe /M:2:1 /C:07 /T:[-] /C:0d /T:Current User:
 Resources\gotoxy.exe 22 7
@@ -577,55 +577,3 @@ InstallPrompt=
 FinishMessage=
 
 :end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

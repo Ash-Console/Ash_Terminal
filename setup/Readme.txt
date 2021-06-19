@@ -1,6 +1,7 @@
-#########Thanks for choosing Ash terminal###############
+(UNSUPPORTED)
+#########Thanks for choosing Ash terminal#############
 Version:Beta 0.1
-Written By:Ash community
+Written By:Justaus3r
 Made possible by batchscripting ,AutoHotkey scripting,vbs,javascript and other auxilaries..
 please see the Credits file to see the credits
 Recommended windows version:Windows 10,8.you can use win 7 but some tools might not work in 7 or 8.

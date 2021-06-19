@@ -45,7 +45,7 @@ type "shllg.ashl"
 echo.
 echo #######################################
 echo Meta Information:
-echo Developed by:Ash Community
+echo Developed by:Justaus3r
 echo User:
 whoami
 echo Operating System:
